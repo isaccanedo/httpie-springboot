@@ -2,7 +2,7 @@
 
 Demonstração de como usar o Swagger 2 para gerar a documentação da API REST para um projeto Spring Boot
 
-## Run 
+## Executar 
 
 ```
 $ git clone https://github.com/papicella/httpie-springboot.git
