@@ -1,0 +1,5 @@
+br\com\isaccanedo\Employee.class
+br\com\isaccanedo\EmployeeRepository.class
+br\com\isaccanedo\HttpieSpringbootApplication.class
+br\com\isaccanedo\SwaggerConfig.class
+br\com\isaccanedo\EmployeeRest.class

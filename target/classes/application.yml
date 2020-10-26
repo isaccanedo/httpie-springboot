@@ -1,0 +1,8 @@
+
+spring:
+  data:
+    jpa:
+      repositories:
+        enabled: true
+  jpa:
+    generate-ddl: true
